@@ -6,4 +6,4 @@ First task was to install and configure Ubuntu 20.04 using virtual machine (usin
 ```
 We can check if OS installed successfully running `cat /etc/issue` command
 
-![part1](../img/part1.png "Part 1")
+![part1](./img/part1.png "Part 1")
